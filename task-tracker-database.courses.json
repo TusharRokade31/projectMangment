@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "665fe1ca4e109d18f175e8a5"
+  },
+  "courseName": "MERN STACK",
+  "description": "MERN is an acronym for the four technologies that form the stack: MongoDB, Express, React, and Node. js. Developers recognize the MERN stack as a simplified development platform for building highly scalable and interactive web applications.",
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-06-05T03:55:22.237Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666001952ce08f589cfbe372"
+  },
+  "courseName": "PHP",
+  "description": "HP is a general-purpose scripting language geared towards web development. It was originally created by Danish-Canadian programmer Rasmus Lerdorf in 1993 and released in 1995. The PHP reference implementation is now produced by the PHP Group.",
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-06-05T06:10:46.367Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6661484774db56daed7bf514"
+  },
+  "courseName": "DotNet",
+  "description": "The .NET platform is a free and open-source, managed computer software framework for Windows, Linux, and macOS operating systems. ",
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-06-06T05:13:50.499Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6661487274db56daed7bf517"
+  },
+  "courseName": "WordPress",
+  "description": "WordPress is a web content management system. It was originally created as a tool to publish blogs but has evolved to support publishing other web content, including more traditional websites, mailing lists and Internet forum, media galleries, membership sites, learning management systems and online stores.",
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-06-06T05:13:50.499Z"
+  },
+  "__v": 0
+}]

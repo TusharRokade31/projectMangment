@@ -1,0 +1,368 @@
+[{
+  "_id": {
+    "$oid": "66615fa20a6f5acd664ce33d"
+  },
+  "fname": "Abbot",
+  "lname": "Reynolds",
+  "email": "faxem@mailinator.com",
+  "contact": 11,
+  "course": {
+    "$oid": "666001952ce08f589cfbe372"
+  },
+  "image": null,
+  "createdAt": {
+    "$date": "2024-06-06T06:56:09.430Z"
+  },
+  "status": 1,
+  "__v": 4,
+  "projects": [
+    {
+      "$oid": "66618d3ca22b727c53dd2eba"
+    },
+    {
+      "$oid": "66618d849ca4aa758e2180f2"
+    },
+    {
+      "$oid": "66618e651a187f61ea479f51"
+    },
+    {
+      "$oid": "666fc1c5590c3370db4c0566"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6661ae61c01a94d8ddd608b2"
+  },
+  "fname": "sagar",
+  "lname": "remje",
+  "email": "sagarremje@gmail.com",
+  "contact": {
+    "$numberLong": "98745128952"
+  },
+  "course": {
+    "$oid": "665fe1ca4e109d18f175e8a5"
+  },
+  "projects": [
+    {
+      "$oid": "6662dc35d53e8bf88f8cf5cb"
+    },
+    {
+      "$oid": "666d76d97c1f71b7243501b9"
+    },
+    {
+      "$oid": "666d77d4bf67c3c48f2167ee"
+    },
+    {
+      "$oid": "666d7ea9bf67c3c48f21684f"
+    },
+    {
+      "$oid": "666fb4492190bda6579ea869"
+    },
+    {
+      "$oid": "666fc0e2590c3370db4c0544"
+    },
+    {
+      "$oid": "666fc17c590c3370db4c055e"
+    },
+    {
+      "$oid": "666ff722b98cbef6fc44e4f2"
+    },
+    {
+      "$oid": "666ff9fd7e281693907e3c64"
+    }
+  ],
+  "image": null,
+  "createdAt": {
+    "$date": "2024-06-06T10:29:23.254Z"
+  },
+  "status": 1,
+  "__v": 9
+},
+{
+  "_id": {
+    "$oid": "66628be46c4ad3440c8e41f5"
+  },
+  "fname": "Rhea",
+  "lname": "Gillespie",
+  "email": "pebo@mailinator.com",
+  "contact": 46,
+  "course": {
+    "$oid": "6661487274db56daed7bf517"
+  },
+  "projects": [
+    {
+      "$oid": "6675216ff70ed90b7b70caf5"
+    }
+  ],
+  "image": null,
+  "createdAt": {
+    "$date": "2024-06-07T04:09:45.488Z"
+  },
+  "status": 1,
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "66628ca06c4ad3440c8e4214"
+  },
+  "fname": "Zachary",
+  "lname": "Floyd",
+  "email": "xiqoryweg@mailinator.com",
+  "contact": 80,
+  "course": {
+    "$oid": "665fe1ca4e109d18f175e8a5"
+  },
+  "projects": [
+    {
+      "$oid": "667283d6f98292d9a0d74b01"
+    },
+    {
+      "$oid": "66728dcff98292d9a0d74b78"
+    },
+    {
+      "$oid": "66728e04f98292d9a0d74b7c"
+    }
+  ],
+  "image": null,
+  "createdAt": {
+    "$date": "2024-06-07T04:09:45.488Z"
+  },
+  "status": 1,
+  "__v": 3
+},
+{
+  "_id": {
+    "$oid": "66628fd36c4ad3440c8e424e"
+  },
+  "fname": "Kenyon",
+  "lname": "Alexander",
+  "email": "gejopekeb@mailinator.com",
+  "contact": 76,
+  "course": {
+    "$oid": "666001952ce08f589cfbe372"
+  },
+  "projects": [],
+  "image": null,
+  "createdAt": {
+    "$date": "2024-06-07T04:09:45.488Z"
+  },
+  "status": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6673de5512fd2ce1182d9413"
+  },
+  "fname": "Montana",
+  "lname": "Mccormick",
+  "email": "gefaqawo@mailinator.com",
+  "contact": 37,
+  "course": {
+    "$oid": "666001952ce08f589cfbe372"
+  },
+  "projects": [
+    {
+      "$oid": "6673de9112fd2ce1182d941c"
+    }
+  ],
+  "image": null,
+  "createdAt": {
+    "$date": "2024-06-20T05:38:22.980Z"
+  },
+  "status": 1,
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "6675307723a666fdd45dbf47"
+  },
+  "fname": "Phoebe",
+  "lname": "Rush",
+  "email": "wady@mailinator.com",
+  "contact": 13,
+  "course": {
+    "$oid": "6661484774db56daed7bf514"
+  },
+  "projects": [
+    {
+      "$oid": "6675309c23a666fdd45dbf50"
+    }
+  ],
+  "image": null,
+  "createdAt": {
+    "$date": "2024-06-21T07:37:17.634Z"
+  },
+  "status": 1,
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "66753a9923a666fdd45dbf92"
+  },
+  "fname": "DEV",
+  "lname": "SHIGVAN",
+  "email": "DEV@GMAIL.COM",
+  "contact": 788867676,
+  "course": {
+    "$oid": "666001952ce08f589cfbe372"
+  },
+  "projects": [
+    {
+      "$oid": "66753b8e23a666fdd45dbfbf"
+    },
+    {
+      "$oid": "66753bb623a666fdd45dbfc5"
+    },
+    {
+      "$oid": "667d05eec4ac83fa55a4901b"
+    },
+    {
+      "$oid": "667d0eafc4ac83fa55a49037"
+    },
+    {
+      "$oid": "667d1045c4ac83fa55a4904b"
+    }
+  ],
+  "image": null,
+  "createdAt": {
+    "$date": "2024-06-21T07:37:17.634Z"
+  },
+  "status": 1,
+  "__v": 11,
+  "projectFiles": [
+    {
+      "$oid": "667d05181d6b22e76b577d7a"
+    },
+    {
+      "$oid": "667d056bc4ac83fa55a49011"
+    },
+    {
+      "$oid": "667d0609c4ac83fa55a49020"
+    },
+    {
+      "$oid": "667d069fc4ac83fa55a49025"
+    },
+    {
+      "$oid": "667d0fd7c4ac83fa55a49041"
+    },
+    {
+      "$oid": "667d106ac4ac83fa55a49050"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66753f4423a666fdd45dbffe"
+  },
+  "fname": "Mehul",
+  "lname": "Prajapati",
+  "email": "mehul@gmail.com",
+  "contact": {
+    "$numberLong": "9930112627"
+  },
+  "course": {
+    "$oid": "6661487274db56daed7bf517"
+  },
+  "projects": [
+    {
+      "$oid": "66753fb723a666fdd45dc012"
+    },
+    {
+      "$oid": "66753ff823a666fdd45dc018"
+    }
+  ],
+  "image": null,
+  "createdAt": {
+    "$date": "2024-06-21T07:37:17.634Z"
+  },
+  "status": 1,
+  "__v": 3,
+  "projectFiles": [
+    {
+      "$oid": "667d1204c85d0c55bc308d2f"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6676b03b7e3c1d37f18f9d3a"
+  },
+  "fname": "Marik ",
+  "lname": "Taddox",
+  "email": "Mukimusuc@mailinator.com",
+  "contact": 95,
+  "course": {
+    "$oid": "6661484774db56daed7bf514"
+  },
+  "projects": [
+    {
+      "$oid": "667bb6e0cc35865f88112730"
+    },
+    {
+      "$oid": "667bc633cc35865f881127bf"
+    },
+    {
+      "$oid": "667be0282566fe8d7292cff0"
+    },
+    {
+      "$oid": "667cfdcad1c95fca01dc55ee"
+    }
+  ],
+  "image": null,
+  "createdAt": {
+    "$date": "2024-06-22T10:06:53.236Z"
+  },
+  "status": 1,
+  "__v": 20,
+  "projectFiles": [
+    {
+      "$oid": "667a9f9e631accfde7be0dac"
+    },
+    {
+      "$oid": "667aa004631accfde7be0db4"
+    },
+    {
+      "$oid": "667aa181599ddabbf8f87e5e"
+    },
+    {
+      "$oid": "667ba619cc35865f88112667"
+    },
+    {
+      "$oid": "667bb9c5cc35865f88112746"
+    },
+    {
+      "$oid": "667bc207cc35865f88112779"
+    },
+    {
+      "$oid": "667bcf532566fe8d7292cf02"
+    },
+    {
+      "$oid": "667bd42c2566fe8d7292cf9a"
+    },
+    {
+      "$oid": "667be03f2566fe8d7292cff5"
+    },
+    {
+      "$oid": "667cfde4d1c95fca01dc55f4"
+    },
+    {
+      "$oid": "667cffa79cffb2c2fd140fc3"
+    },
+    {
+      "$oid": "667cffb69cffb2c2fd140fc7"
+    },
+    {
+      "$oid": "667d00be1722edf71f01c6d4"
+    },
+    {
+      "$oid": "66824faaa4c1de763069f0a2"
+    },
+    {
+      "$oid": "6682638020a792d853feeb55"
+    },
+    {
+      "$oid": "668263c820a792d853feeb68"
+    }
+  ]
+}]
